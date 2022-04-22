@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 22 16:59:39 UTC 2022
+geoserver-2.21-M0.pom>=
+geoserver-2.21-M0-tests.jar>=

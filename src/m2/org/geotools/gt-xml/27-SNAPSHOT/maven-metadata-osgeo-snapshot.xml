@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.geotools</groupId>
+  <artifactId>gt-xml</artifactId>
+  <version>27-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20220422.154752</timestamp>
+      <buildNumber>124</buildNumber>
+    </snapshot>
+    <lastUpdated>20220422154752</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>27-20220422.154752-124</value>
+        <updated>20220422154752</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>27-20220422.154752-124</value>
+        <updated>20220422154752</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>27-20220422.154752-124</value>
+        <updated>20220422154752</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

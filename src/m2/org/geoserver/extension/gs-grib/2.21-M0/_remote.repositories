@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 22 17:16:05 UTC 2022
+gs-grib-2.21-M0.jar>=
+gs-grib-2.21-M0-sources.jar>=
+gs-grib-2.21-M0-tests.jar>=
+gs-grib-2.21-M0.pom>=
+gs-grib-2.21-M0-test-sources.jar>=

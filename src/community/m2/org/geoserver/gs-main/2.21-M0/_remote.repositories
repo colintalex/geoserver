@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 22 17:32:22 UTC 2022
+gs-main-2.21-M0.pom>osgeo-releases=
+gs-main-2.21-M0.jar>osgeo-releases=
+gs-main-2.21-M0-tests.jar>osgeo-releases=

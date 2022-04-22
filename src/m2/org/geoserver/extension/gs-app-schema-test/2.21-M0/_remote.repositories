@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 22 17:09:53 UTC 2022
+gs-app-schema-test-2.21-M0.jar>=
+gs-app-schema-test-2.21-M0-test-sources.jar>=
+gs-app-schema-test-2.21-M0.pom>=
+gs-app-schema-test-2.21-M0-tests.jar>=

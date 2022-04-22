@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 22 17:15:41 UTC 2022
+netcdf4-4.6.15.jar>osgeo-releases=
+netcdf4-4.6.15.pom>osgeo-releases=

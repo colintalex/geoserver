@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.geotools</groupId>
+  <artifactId>gt-coverage-multidim</artifactId>
+  <version>27-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20220422.154610</timestamp>
+      <buildNumber>124</buildNumber>
+    </snapshot>
+    <lastUpdated>20220422154610</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>27-20220422.154610-124</value>
+        <updated>20220422154610</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

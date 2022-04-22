@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 22 17:04:39 UTC 2022
+gs-security-tests-2.21-M0.jar>=
+gs-security-tests-2.21-M0-tests.jar>=
+gs-security-tests-2.21-M0.pom>=
+gs-security-tests-2.21-M0-test-sources.jar>=

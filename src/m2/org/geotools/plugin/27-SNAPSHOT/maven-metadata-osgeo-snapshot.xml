@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.geotools</groupId>
+  <artifactId>plugin</artifactId>
+  <version>27-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20220422.154541</timestamp>
+      <buildNumber>124</buildNumber>
+    </snapshot>
+    <lastUpdated>20220422154541</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>27-20220422.154541-124</value>
+        <updated>20220422154541</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

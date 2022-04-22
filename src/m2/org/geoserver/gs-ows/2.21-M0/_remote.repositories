@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 22 17:01:15 UTC 2022
+gs-ows-2.21-M0.jar>=
+gs-ows-2.21-M0-tests.jar>=
+gs-ows-2.21-M0.pom>=
+gs-ows-2.21-M0-sources.jar>=
+gs-ows-2.21-M0-test-sources.jar>=

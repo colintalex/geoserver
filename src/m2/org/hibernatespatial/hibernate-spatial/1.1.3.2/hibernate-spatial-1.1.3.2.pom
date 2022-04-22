@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.hibernatespatial</groupId>
+    <artifactId>hibernate-spatial</artifactId>
+    <parent>
+        <groupId>org.hibernatespatial</groupId>
+        <artifactId>hibernate-spatial-maven</artifactId>
+        <version>1.1.3.2</version>
+    </parent>
+    <name>Hibernate Spatial Core</name>
+    <url>http://www.hibernatespatial.org/hibernate-spatial</url>
+    <description>
+        Hibernate Spatial Core classes, interfaces and Service Provider
+        Interface
+    </description>
+    <packaging>jar</packaging>
+    <build>
+        <plugins>
+            <!--  this ensures that the common testsuite-suite cases are available for providers -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>test-jar</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <configuration>
+                    <excludes>
+                        <exclude>**/TestData.java</exclude>
+                        <exclude>**/TestDataElement.java</exclude>
+                        <exclude>**/TestDataReader.java</exclude>
+                        <exclude>**/TestFeature.java</exclude>
+                        <exclude>**/TestSupport.java</exclude>
+                    </excludes>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
